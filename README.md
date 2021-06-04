@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vinícius Soares</h1>
+<h1 align="center">Oi 👋, meu nome é Vinícius Soares</h1>
 
 <h3 align="left">Sobre mim:</h3>
 <p align="left">
   Graduando em Sistemas de Informação pela UFVJM. Dedico estudos a área de tecnologia e temas como programação, arquitetura de computadores, sistemas operacionais, etc. Aspirante em desenvolvimento Web.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
