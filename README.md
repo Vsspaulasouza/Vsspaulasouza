@@ -29,7 +29,7 @@
 </div>
 
 ## Minhas estatísticas 📊
-<img src="https://github-readme-stats.vercel.app/api?username=vsspaulasouza&show_icons=true&count_private=true&theme=github_dark&hide=stars,contribs&custom_title=Vinícius Soares GitHub Stats" alt="Stats Vsspaulasouza" />
+<img src="https://github-readme-stats.vercel.app/api?username=vsspaulasouza&show_icons=true&count_private=true&theme=github_dark&hide=stars&custom_title=Vinícius Soares GitHub Stats" alt="Stats Vsspaulasouza" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=compact&langs_count=4" alt="Languages Vsspaulasouza" />
  
 ## Você pode me encontrar aqui 👇🏻  
