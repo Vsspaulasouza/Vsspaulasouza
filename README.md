@@ -29,9 +29,9 @@
 </div>
 
 <h3 align="left">Você pode me encontrar aqui 👇🏻</h3>  
-<a href="mailto:vsspaulasouza@gmail.com"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/gmail.png" width="40" title="Email" /></a>
-<a href="https://br.linkedin.com/in/vinicius-soares-ps"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/linkedin.png" width="40" title="LinkedIn" /></a>
-<a href="https://www.instagram.com/viniciussoares_ps/"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/instagram.png" width="40" title="Instagram" /></a>  
+<a href="mailto:vsspaulasouza@gmail.com"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/gmail.svg" width="21px" title="Email" /></a>
+<a href="https://br.linkedin.com/in/vinicius-soares-ps"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/linkedin.svg" width="21px" title="LinkedIn" /></a>
+<a href="https://www.instagram.com/viniciussoares_ps/"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/instagram.svg" width="21px" title="Instagram" /></a>  
   
   
 ## Minhas estatísticas 📊
@@ -41,4 +41,4 @@
   
 <a href="http://www.github.com/Vsspaulasouza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=compact&langs_count=4" alt="Languages Vsspaulasouza" /></a>
   
-<a href="http://www.github.com/Vsspaulasouza"><img src="https://activity-graph.herokuapp.com/graph?username=Vsspaulasouza&bg_color=0D1117&color=ffffff&line=4C8EDA&point=ffffff&area_color=171717&area=true&radius=10&custom_title=Vin%C3%ADcius%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>  
+<a href="http://www.github.com/Vsspaulasouza"><img src="https://activity-graph.herokuapp.com/graph?username=Vsspaulasouza&bg_color=0D1117&color=ffffff&line=4C8EDA&point=ffffff&area_color=171717&area=true&radius=10&custom_title=Vin%C3%ADcius%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
