@@ -29,9 +29,9 @@
 </div>
 
 <h3 align="left">Você pode me encontrar aqui 👇🏻</h3>  
-<a href="mailto:vsspaulasouza@gmail.com"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/gmail.svg" width="21px" title="Email" /></a>
-<a href="https://br.linkedin.com/in/vinicius-soares-ps"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/linkedin.svg" width="21px" title="LinkedIn" /></a>
-<a href="https://www.instagram.com/viniciussoares_ps/"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/instagram.svg" width="21px" title="Instagram" /></a>  
+<a href="mailto:vsspaulasouza@gmail.com"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/gmail.svg" width="40px" title="Email" /></a>
+<a href="https://br.linkedin.com/in/vinicius-soares-ps"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/linkedin.svg" width="40px" title="LinkedIn" /></a>
+<a href="https://www.instagram.com/viniciussoares_ps/"><img src="https://raw.githubusercontent.com/Vsspaulasouza/Vsspaulasouza/main/icons/instagram.svg" width="40px" title="Instagram" /></a>  
   
   
 ## Minhas estatísticas 📊
