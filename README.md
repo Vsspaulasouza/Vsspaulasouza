@@ -10,22 +10,25 @@
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width"40" heigth="40"/></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width"40" heigth="40"/></a>
-  <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" width"40" heigth="40"/></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" width"40" heigth="40"/></a>
-  <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width"40" heigth="40"/></a>
+  <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" width="40" heigth="40"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" width="40" heigth="40"/></a>
+  <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="40" heigth="40"/></a>
+  <a href="https://chakra-ui.com/"><img src="https://img.shields.io/badge/Chakra_UI-2C7A7B?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" width="40" heigth="40"/></a>
   <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=black" alt="Vite" width"40" heigth="40"/></a>
-  <a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" width"40" heigth="40"/></a>
-  <a href="https://eslint.org/"><img src="https://img.shields.io/badge/ESLint-5050C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLINT" width"40" heigth="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-107C10?style=for-the-badge&logo=git&logoColor=white" alt="GIT" width"40" heigth="40"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width"40" heigth="40"/></a>
+  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" width"40" heigth="40"/></a>
+  <a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" width="40" heigth="40"/></a>
+  <a href="https://eslint.org/"><img src="https://img.shields.io/badge/ESLint-5050C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLINT" width="40" heigth="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-107C10?style=for-the-badge&logo=git&logoColor=white" alt="GIT" width="40" heigth="40"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="40" heigth="40"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCODE" width"40" heigth="40"/></a>
-  <a href="https://ubuntu.com/download"><img src="https://img.shields.io/badge/Ubuntu-301232?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width"40" heigth="40"/></a>
+  <a href="https://ubuntu.com/download"><img src="https://img.shields.io/badge/Ubuntu-301232?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width="40" heigth="40"/></a>
 </div>
 
 <h3 align="left">📖 Linguagens/Ferramentas/Tecnologias que tenho menos experiência ou estou aprendendo:</h3>
 <div>
-  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" width"40" heigth="40"/></a>
-  <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white" alt="WEBPACK" width"40" heigth="40"/></a> 
+  <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white" alt="WEBPACK" width="40" heigth="40"/></a> 
+  <a href="https://reactrouter.com/"><img src="https://img.shields.io/badge/React_Router-F44250?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/></a> 
+  <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/></a> 
 </div>
 
 <h3 align="left">Você pode me encontrar aqui 👇🏻</h3>  
