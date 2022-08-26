@@ -1,16 +1,12 @@
 <h1 align="center">Oi, meu nome é Vinícius Soares 🐉</h1>
   
 <div>  
-  <img align="left" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width='300'/>
+  <img align="left" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width='400'/>
   <div align="">
       <h3>Sobre mim: </h3>
       <p>Sou Mineiro, tenho 21 anos e  graduando do 8º período em Sistemas de Informação pela UFVJM. Gosto muito da área de tecnologia e de aprender coisas novas, atualmente com foco em desenvolvimento Web. </p>
   </div>
 </div>
-
-|     |
-| --- |
-|     |
 
 <div> 
     <h3 align="left">Você pode me encontrar aqui 👇</h3>  
