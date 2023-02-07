@@ -56,5 +56,3 @@
 <a href="http://www.github.com/Vsspaulasouza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vsspaulasouza&theme=neon-dark&date_format=j%20M%5B%20Y%5D&stroke=E4E2E2&ring=4C8EDA&currStreakNum=C3D1D9&sideNums=4C8EDA&currStreakLabel=4C8EDA&sideLabels=C2D0D8&dates=909BA2&fire=E34C2D&border=FFFFFF&background=0D1117" /></a>
   
 <a href="http://www.github.com/Vsspaulasouza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=compact&langs_count=4" alt="Languages Vsspaulasouza" /></a>
-  
-<a href="http://www.github.com/Vsspaulasouza"><img src="https://activity-graph.herokuapp.com/graph?username=Vsspaulasouza&bg_color=0D1117&color=ffffff&line=4C8EDA&point=ffffff&area_color=171717&area=true&radius=10&custom_title=Vin%C3%ADcius%20GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
