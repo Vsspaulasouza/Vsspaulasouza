@@ -6,7 +6,7 @@
 
 <div>
   <h3>Sobre mim: </h3>
-  <p>Sou Mineiro, tenho 22 anos e sou graduado em Sistemas de Informação pela UFVJM. Gosto muito da área de tecnologia e de aprender coisas novas, atualmente com foco em desenvolvimento Web. </p>
+  <p>Sou Mineiro, tenho 23 anos e sou graduado em Sistemas de Informação pela UFVJM. Gosto muito da área de tecnologia e de aprender coisas novas, atualmente com foco em desenvolvimento Web. </p>
 </div>
 
 <div> 
@@ -46,7 +46,8 @@
   <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white" alt="WEBPACK" /></a> 
   <a href="https://reactrouter.com/"><img src="https://img.shields.io/badge/React_Router-F44250?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/></a> 
   <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/></a> 
-  <a href="https://www.java.com/pt-BR/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a> 
+  <a href="https://www.java.com/pt-BR/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"><img src="https://img.shields.io/badge/00599C?style=for-the-badge&logoColor=white" alt="C"/></a> 
   <a href="https://pt.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a> 
 </div> 
   
