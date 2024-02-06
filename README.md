@@ -16,7 +16,7 @@
 
 <div align="left">
   <details open>
-    <summary><h4>⭐ Tenho mais experiência em:<h4/></summary>  
+    <summary><h4>⭐ Tenho mais experiência com:<h4/></summary>  
     <br>
     <div>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
