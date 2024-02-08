@@ -40,7 +40,7 @@
 
 <div align="left">
   <details>
-    <summary><h4>📖 Tenho menos experiência ou estou aprendendo:<h4/></summary>  
+    <summary><h4>📖 Tenho alguma experiência ou estou aprendendo:<h4/></summary>  
     <br>
     <div>
         <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3974A5?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a> 
@@ -53,7 +53,9 @@
         <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/></a> 
         <a href="https://www.java.com/pt-BR/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
         <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white" alt="C"/></a> 
-        <a href="https://pt.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a> 
+        <a href="https://pt.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+        <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs"/></a>
+        <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-4C51BF?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/></a> 
       </div>
   </details>  
 </div>
