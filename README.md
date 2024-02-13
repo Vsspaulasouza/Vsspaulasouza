@@ -28,7 +28,6 @@
         <a href="https://chakra-ui.com/"><img src="https://img.shields.io/badge/Chakra_UI-2C7A7B?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" /></a>
         <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=black" alt="Vite" /></a>
         <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
-        <a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" /></a>
         <a href="https://eslint.org/"><img src="https://img.shields.io/badge/ESLint-5050C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLINT" /></a>
         <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-107C10?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /></a>
         <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
