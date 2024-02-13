@@ -67,7 +67,9 @@
     <br>
     <div>
       <a href="http://www.github.com/Vsspaulasouza"><img src="https://github-readme-stats.vercel.app/api?username=vsspaulasouza&show_icons=true&count_private=true&theme=github_dark&hide=stars,contribs&rank_icon=github&custom_title=Vinícius+Soares+GitHub+Stats" alt="Stats Vsspaulasouza" /></a>
+      <br/>
       <a href="http://www.github.com/Vsspaulasouza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vsspaulasouza&theme=neon-dark&date_format=j%20M%5B%20Y%5D&stroke=E4E2E2&ring=4C8EDA&currStreakNum=C3D1D9&sideNums=4C8EDA&currStreakLabel=4C8EDA&sideLabels=C2D0D8&dates=909BA2&fire=E34C2D&border=FFFFFF&background=0D1117" /></a>
+      <br/>
       <a href="http://www.github.com/Vsspaulasouza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=compact&langs_count=4" alt="Languages Vsspaulasouza" /></a>
       </div>
   </details>  
